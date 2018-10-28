@@ -1,0 +1,25 @@
+{
+  "name": "tokenizer-package-results-ja",
+  "version": "0.0.1",
+  "description": "",
+  "homepage": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "tokenizer",
+    "example"
+  ],
+  "author": "michinari.nukazawa@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "cjk-tokenizer": "^0.1.0",
+    "kuromoji": "^0.1.2",
+    "tiny-segmenter": "^0.2.0"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0",
+    "power-assert": "^1.6.1"
+  }
+}
